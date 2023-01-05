@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-9">
+  <title>Ammus</title>
+  <link rel="stylesheet" href="ammu.css">
+
+
+
+  
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="drag-container">
+  <div id="spin-container">
+
+
+
+
+
+
+
+    <img src="ammus1.jpg" alt="">
+    <img src="ammus2.jpg" alt="">
+    <img src="ammu.jpg" alt="">
+    <img src="krishna.jpg" alt="">
+    <img src="ammus3.jpg" alt="">
+    <img src="ammus4.jpg" alt="">
+   
+
+    <!-- Example image with link -->
+    <a target="_blank" href="ammu5.jpg">
+      <img src="ammu6.jpg" alt="">
+    </a>
+
+    <!-- Example add video  -->
+    <video controls autoplay="autoplay" loop>
+      <source src="ammus vedio.mp4" type="video/mp4">
+    </video>
+
+    <!-- Text at center of ground -->
+    <p> Happy to see your smile </p>
+  </div>
+  <div id="ground"></div>
+</div>
+
+<div id="music-container"></div>
+
+
+
+<!-- github corner (https://github.com/tholman/github-corners) -->
+<style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+<!-- partial -->
+  <script  src="ammu.js"></script>
+
+
+
+
+</body>
+
+
+
+
